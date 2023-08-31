@@ -11,7 +11,7 @@ Install the required dependencies using the following command:
 pip install requests
 ```
 # **Usage**
-Configure the script by adjusting variables such as fieldnames and max_pages in the scraper.py file.
+Configure the script by adjusting variables such as fieldnames and max_pages in the Reviews.py file.
 Run the script in your terminal using the command:
 ```bash
 python Reviews.py
