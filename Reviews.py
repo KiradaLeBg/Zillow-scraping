@@ -36,7 +36,7 @@ with open("reviews.csv", "a", newline='') as file:
                 "Accept": "*/*",
                 "Accept-Encoding": "gzip, deflate, br",
                 "Accept-Language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
-                "Cookies": "" #put your cookies in it
+                "Cookies": "" #put your cookies in it. I'm pretty sure you don't even need to do that
                 "Referer": "https://www.zillow.com/profile/Stephanie-Younger-CA/",
                 "Sec-Ch-Ua": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
                 "Sec-Ch-Ua-Mobile": "?0",
